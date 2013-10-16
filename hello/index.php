@@ -14,7 +14,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        echo '一个使用backbone的view的例子' . '<br/>';
         ?>
         <script type="text/javascript">
             var helloView = new HelloView();
